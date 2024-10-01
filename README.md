@@ -1,4 +1,4 @@
-![GitHub License](https://img.shields.io/github/license/Henryhst/Henryhst)
+
 
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Henry </font></h1>
@@ -36,3 +36,5 @@
 - 📫 How to reach me **[h.stadthagen@me.com](mailto:h.stadthagen@me.com)**
 
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=henryhst&show_icons=true"/>
+
+![GitHub License](https://img.shields.io/github/license/Henryhst/Henryhst)
